@@ -65,19 +65,35 @@ I am a CTO at Quippo and Senior Mobile Engineer with over 5 years of experience 
   - Deliver orders efficiently
 
 #### Videos
-<table>
+## 📱 Ecossistema Quippo
+
+O Quippo une conveniência e tecnologia para transformar a experiência de consumo e venda na areia.
+
+<table border="0">
   <tr>
-    <td align="center">
-      <h4>📱 Quippo Cliente</h4>
-      <video src="https://drive.google.com/file/d/1ds2AZXI25mw0E73vOrp_M2o8omiAFaLl/view?usp=sharing" width="300" controls></video>
-      <br>
-      <a href="LINK_APP_STORE">App Store</a> | <a href="LINK_PLAY_STORE">Google Play</a>
+    <td align="center" valign="top" width="50%">
+      <h3>🌊 Quippo Cliente</h3>
+      <p>Peça sem sair do lugar. Cardápio completo, rastreio em tempo real e pagamentos via Pix ou Cartão.</p>
+      <video src="https://github.com/matheusfelipe1/matheusfelipe1/raw/main/ScreenRecording_03-21-2026 17-55-26_1 (1).mp4" width="100%" controls autoplay loop muted></video>
+      <br><br>
+      <a href="LINK_APP_STORE">
+        <img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" />
+      </a>
+      <a href="LINK_PLAY_STORE">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+      </a>
     </td>
-    <td align="center">
-      <h4>💰 Quippo Vendedor</h4>
-      <video src="https://drive.google.com/file/d/10ADqGqzYueJ_w6Go_4Z3RzbI-VilWCfc/view?usp=sharing" width="300" controls></video>
-      <br>
-      <a href="LINK_APP_STORE">App Store</a> | <a href="LINK_PLAY_STORE">Google Play</a>
+    <td align="center" valign="top" width="50%">
+      <h3>💰 Quippo Vendedor</h3>
+      <p>Venda mais e melhor. Receba pedidos direto no celular e localize seus clientes no mapa.</p>
+      <video src="https://github.com/matheusfelipe1/matheusfelipe1/raw/main/seller%20(1).mp4" width="100%" controls autoplay loop muted></video>
+      <br><br>
+      <a href="LINK_APP_STORE">
+        <img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" />
+      </a>
+      <a href="LINK_PLAY_STORE">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
