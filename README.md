@@ -50,7 +50,7 @@ e!
 
 ## 📱 CTO at Quippo Apps
 
-### Quippo App - [iOS](ink_to_app_store) & [Android](ink_to_app_store)
+### Quippo App
 **Relax and order without leaving your spot!**  
 - Quippo connects you to beach vendors effortlessly. Open the app, choose what you want, and place your order!
 
@@ -59,7 +59,7 @@ e!
   - Vendors receive your order instantly and deliver to you
   - Flexible payment options: cash, Pix, or card
 
-### Quippo App Vendedor - [iOS](ink_to_app_store) & [Android](ink_to_app_store)
+### Quippo App Vendedor
 **Sell more and streamline your service!**  
 - Quippo connects you with customers nearby. Receive orders directly on your phone without hassle.
 
