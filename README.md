@@ -88,7 +88,7 @@ Quippo combines convenience and technology to transform the buying and selling e
       </a>
     </td>
     <td align="center" valign="top">
-      <h3>💰 Quippo Vendedor</h3>
+      <h3>💰 Quippo Vendedor/Seller</h3>
       <p>Sell ​​more and better. Receive orders directly on your mobile phone and locate your customers on the map.</p>
       <video src="https://github.com/user-attachments/assets/ec8f0735-95d1-4d17-a061-7e5d341a8144" width="250" height="500" controls autoplay loop muted></video>
       <br><br>
@@ -105,19 +105,27 @@ Quippo combines convenience and technology to transform the buying and selling e
 ## 🛠️ Featured projects
 
 ### 1. [Space Legends](https://github.com/matheusfelipe1/Game-Space-Legends)
-- **Descrição**: Resumo do que o projeto faz e suas principais características.
+- Space Legends is a Flutter-based game where players control a spaceship using the device’s motion sensors. By tilting the phone, the ship moves sideways to dodge threats and shoot down enemy flying saucers. The game combines simple mechanics with sensor-based interaction, delivering a dynamic and immersive experience. 🚀
 
 ### 2. [ClarifyMD](https://github.com/matheusfelipe1/ClarifyMD)
-- **Descrição**: Resumo do que o projeto faz e suas principais características.
+- ClarifyMD is a SwiftUI-based application designed to make medical reports accessible and understandable for non-expert patients. It addresses the challenge of complex medical terminology by transforming technical language into clear, simple explanations, helping reduce anxiety and confusion caused by difficult diagnoses.
+The app leverages advanced prompt engineering techniques with AI to ensure accurate and reliable responses. These include Role Prompting (guiding the model to act as an experienced and didactic doctor), Chain of Thought (CoT) for structured reasoning, Chain of Verification (CoVe) to validate and refine outputs, and Few-Shot Prompting to maintain consistency in simplified explanations.
+Built with a strong focus on usability and clarity, ClarifyMD aims to improve treatment adherence, reduce unnecessary stress, and minimize overload on healthcare support channels by empowering patients with better understanding of their medical reports.
 
 ### 3. [Article - Texture x NativeView](https://github.com/matheusfelipe1/Article-Texture-And-NativeView)
-- **Descrição**: Resumo do que o projeto faz e suas principais características.
+- This project demonstrates the integration of native Android and iOS content into Flutter applications, exploring the "Texture" and "Native View" techniques. It serves as a practical guide for developers who want to incorporate platform-specific resources into their Flutter applications, such as native maps, high-performance videos, or any other element that requires platform power. This project accompanies the article published on Medium: Integrating Native Content in Flutter: Texture and Native View in Detail.
 
 ### 4. [QRCode Reading Plugin](https://github.com/matheusfelipe1/QRCode-Reading-FlutterPlugin)
-- **Descrição**: Resumo do que o projeto faz e suas principais características.
+- A Flutter plugin for scanning QR codes with ease. This plugin provides a seamless camera view with customizable widgets and functionalities to enhance the QR code scanning experience.
 
 ### 5. [Onfly - Selective Process](https://github.com/matheusfelipe1/Selective-Process-Onfly)
-- **Descrição**: Resumo do que o projeto faz e suas principais características.
+- Selective Process Onfly is a Flutter application built with an offline-first approach, ensuring seamless user experience even without an internet connection. The app focuses on data persistence and synchronization, allowing users to interact with features locally and sync changes when connectivity is restored. It demonstrates robust architecture, efficient state management, and best practices for handling offline scenarios in mobile applications
 
 ### 6. [Daily Pulse](https://github.com/matheusfelipe1/DailyPulse)
-- **Descrição**: Resumo do que o projeto faz e suas principais características.
+- Daily Pulse is a Kotlin Multiplatform (KMP) application designed to deliver a consistent cross-platform experience across Android and iOS by sharing core business logic in a unified codebase. The app focuses on fetching, caching, and presenting daily content, demonstrating how to efficiently build scalable and maintainable mobile applications using shared modules.
+Built with modern mobile development practices, the project showcases concepts such as Clean Architecture, modularization, and reactive UI layers, combining native Android and iOS interfaces with shared domain and data layers. It highlights the power of KMP in reducing code duplication while maintaining platform-specific performance and user experience.
+
+### 7. Quippo (Client & Seller)
+Quippo’s Apps (Seller & Client) are mobile applications developed using Kotlin Multiplatform (KMP), designed to deliver a seamless and consistent experience across Android and iOS while sharing core business logic in a unified codebase. The solution includes two distinct apps: one focused on the seller experience, providing tools for management, operations, and performance tracking, and another tailored for end customers, offering an intuitive and user-friendly interface.
+The architecture emphasizes scalability, maintainability, and code reuse, leveraging shared modules for domain, data, and business rules, while preserving native UI experiences on each platform. This approach significantly reduces duplication and ensures high performance across both ecosystems.
+The repository for these applications is private, as it contains proprietary business logic and sensitive implementation details.
