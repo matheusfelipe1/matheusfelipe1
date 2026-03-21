@@ -5,7 +5,7 @@ src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
 
 ## I'm Matheus Felipe Silva Santos! Let me present a little about myself :D
 
-Senior Mobile Developer | Flutter & Native iOS/Android | 5+ Years Experience  | CTO at Quippo
+Senior Mobile Engineer | Flutter & Native iOS/Android | 5+ Years Experience  | CTO at Quippo
 Lover of Technology and Coding :heart:  
 Based in Contagem, Minas Gerais, Brazil.
 
