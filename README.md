@@ -71,31 +71,31 @@ e!
 #### Videos
 ## 📱 Ecossistema Quippo
 
-O Quippo une conveniência e tecnologia para transformar a experiência de consumo e venda na areia.
+Quippo combines convenience and technology to transform the buying and selling experience on the beach.
 
 <table border="0">
   <tr>
     <td align="center" valign="top">
       <h3>🌊 Quippo</h3>
-      <p>Peça sem sair do lugar. Cardápio completo, rastreio em tempo real e pagamentos via Pix ou Cartão.</p>
+      <p>Order without leaving your seat. Full menu, real-time tracking, and payments via Pix or credit card.</p>
       <video src="https://github.com/user-attachments/assets/f8bffce9-afff-4516-ad43-34ea47832f16" width="250" height="500" controls autoplay loop muted></video>
       <br><br>
-      <a href="LINK_APP_STORE">
+      <a href="https://apps.apple.com/us/app/quippo/id6755365293">
         <img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" />
       </a>
-      <a href="LINK_PLAY_STORE">
+      <a href="https://play.google.com/store/apps/details?id=com.quippo.client&hl=pt_BR">
         <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
       </a>
     </td>
     <td align="center" valign="top">
       <h3>💰 Quippo Vendedor</h3>
-      <p>Venda mais e melhor. Receba pedidos direto no celular e localize seus clientes no mapa.</p>
+      <p>Sell ​​more and better. Receive orders directly on your mobile phone and locate your customers on the map.</p>
       <video src="https://github.com/user-attachments/assets/ec8f0735-95d1-4d17-a061-7e5d341a8144" width="250" height="500" controls autoplay loop muted></video>
       <br><br>
-      <a href="LINK_APP_STORE">
+      <!-- <a href="LINK_APP_STORE">
         <img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" />
-      </a>
-      <a href="LINK_PLAY_STORE">
+      </a> -->
+      <a href="https://play.google.com/store/apps/details?id=com.quippo.quipposeller.android&hl=pt_BR">
         <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
       </a>
     </td>
