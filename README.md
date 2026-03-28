@@ -106,6 +106,7 @@ Quippo combines convenience and technology to transform the buying and selling e
 
 ### 1. [Space Legends](https://github.com/matheusfelipe1/Game-Space-Legends)
 - Space Legends is a Flutter-based game where players control a spaceship using the device’s motion sensors. By tilting the phone, the ship moves sideways to dodge threats and shoot down enemy flying saucers. The game combines simple mechanics with sensor-based interaction, delivering a dynamic and immersive experience. 🚀
+- <video src="https://github.com/user-attachments/assets/4193e8ff-397d-4be5-93dd-236ba1675f7a" width="500" height="250" controls autoplay loop muted></video>
 
 ### 2. [ClarifyMD](https://github.com/matheusfelipe1/ClarifyMD)
 - ClarifyMD is a SwiftUI-based application designed to make medical reports accessible and understandable for non-expert patients. It addresses the challenge of complex medical terminology by transforming technical language into clear, simple explanations, helping reduce anxiety and confusion caused by difficult diagnoses.
